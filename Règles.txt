@@ -1,0 +1,101 @@
+Règles :
+
+__________________________________________________________________________________________
+
+1 - Ne pas FreeKil, Props Block, Props Surf, Troll, NoRP, Glitch, Hack
+2 - Respecter les Joueurs et le Staff sur le serveur.
+3 - Interdit d'insulter en RP et HRP.
+4 - NLR autorisé qu'en cas de guerre Galactique, mais ne pas en abuser.
+5 - Interdit de Spam Micro et Chat.
+6 - Interdit de menacer les joueurs et le Staff sur le serveur.
+7 - Interdit de Flood le chat.
+8 - Interdit de faire de pubs pour d'autres serveurs Garry's Mod.
+9 - Respecter les couleurs de sabre laser (vous pouvez mettre d'autres couleurs, mais ne pas en abuser) :
+- Alliance Rebelle : Bleu, Vert, Violet, Jaune, Orange, Blanc, Marron et Gris.
+- Empire Galactique : Bleu (Général Grievious), Vert (Général Grievious), Rouge, Violet, Orange, Blanc et Noir.
+10 - Respecter le FearRP.
+11 - Metagaming autorisé que des skins de jobs.
+12 - Jouer en tant que civil dans le RP est autorisé.
+__________________________________________________________________________________________
+
+Commandes :
+
+__________________________________________________________________________________________
+
+1 - /roll pour lancer un dé aléatoire ( celui qui à le plus grand nombre gagne ).
+2 - /job "texte" pour changer le nom du job.
+3 - /me "texte" pour faire une action RP.
+4 - Kill ( dans la console ) pour se kill.
+5 - /ano "texte" pour écrire dans le chat un message anonyme
+6 - /dropmoney "nombre" pour droper de l'argent.
+7 - /ooc pour parler dans le chat en sachant que tous les joueurs peuvent lire votre message en action RP ou non.
+8 - /// "motif" pour parler à un admin dans le chat ou pour appeler un admin dans le chat.
+
+__________________________________________________________________________________________
+
+Règles RP:
+
+__________________________________________________________________________________________
+
+1 - Interdit d'aller dans un vaisseau ennemi sauf si il à été abandonné.
+2 - Respecter les couleurs de sabres lasers.
+3 - Interdit de tirer sur des joueurs avec un vaisseau.
+4 - Vous avez le droit de tirer sur des joueurs avec des véhicules.
+5 - Interdit d'acheter à un vendeur d'arme en étant Jedi ou Sith.
+6 - Interdit de mettre du contenu pornographique sur les écrans.
+7 - Interdit de se suicider en prise d'otage ou en prison.
+8 - Obligatoire de posséder un nom RP, les noms en jeu de mots sont interdits.
+9 - Interdit d'utiliser le Force Absorb, La foudre et le feu contre un combat au sabre laser et il est seulement utilisable en cas de sort ou en cas de torture.
+10 - Interdit de voler l'argent d'un joueur ayant fait la commande /dropmoney "nombre".
+11 - Les Jobs suivants : Dark Plagueis et Snoke sont interdits de combattre durant une Guerre Galactique.
+12 - Seul Kylo Ren peut prendre son sabre (les jobs : Jedi VS Sith au dessus de Chevalier Jedi et Guerrier Sith on le droit de l'utiliser).
+13 - Un sabre ramassé par terre (en ayant kill un adversaire) peut être utliser par n'importe quel jobs si il sait manier le sabre ou si il a suivi une formation pour s'entraîner au sabre laser (même le sabre de Dark Maul peut être utilisé).
+14 - Vous avez le droit de faire genre que vous êtes proche de quelqu'un (ex: fils de dooku), dans ce cas vous pouvez ou non prendre son sabre laser avec la bonne couleur ou non.
+15 - Interdit de retourner sur une autre planète durant une Guerre Galactique si vous voulez vous soigner ou autre, que si vous comptiez prendre la fuite, mais vous ne devez pas revenir au combat.
+16 - Vous pouvez NLR si vous vous faites Kill en Guerre Galactique ou sur Tython et Korriban.
+17 - Jouez Fair-Play, laissez les jobs aux autres personnes.
+18 - Interdit de donner une somme d'argent énorme à une personne qui n'en veux pas.
+19 - Les vendeurs d'armes ont le droit d'aller sur n'importe quel planète à l'aide d'un Jobs qui sait piloter.
+20 - Il est interdit de mettre le nom d'un Jedi ou d'un Sith connu en Jobs Jedi Vs Sith.
+21 - Les formations Jedi VS Siths pourront se faire à n'importe quel moment, une fois la formation faite par un supérieur, le formateur doit appeler un admin pour qu'il puisse mettre la whitelist au job suivant.
+22 - Vous pouvez jouer en Jobs Jedi VS Sith les Neutres et soit Jedi soit Sith, seuls les V.I.P peuvent avoir un jeu Jedi Vs Sith chez les Neutres, Jedi et Sith.
+23 - Avant de passer à la formation d'un joueur, il faut que le joueur ai le niveau pour avoir le jobs suivant ( Jedi VS Sith ).
+24 - Vous pouvez trahir votre camp.
+25 - Les Neutres peuvent être Jedi ou Sith si ils ont passé la formation ( Les Droïdes sont Interdits ).
+26 - Les Jobs : Droïdes, Jawas, Tusken, Garde Gamorrean, Jabba et autres jobs qui ne doivent pas prendre de vaisseaux ou véhicules n'ont pas le droit de piloter un vaisseau ou de conduire un véhicule.
+27 - Interdit de faire spawn un vaisseau ou véhicule en pleine action RP ou durant un Combat.
+28 - Vous pouvez vous échapper d'un combat par un vaisseau ou véhicule que si il est déja posé par quelq'un d'autre et si le ou les ennemis sont assez loin de vous.
+29 - Vous pouvez être autant que vous voulez en combat.
+30 - Les Droïdes Pilotes peuvent conduire des Véhcules mais pas des Vaisseaux.
+31 - Les Jobs : Initiés Jedi, Acolyte Sith, Grand Amiral, Padme, Scout Trooper, Endor Rebelles, C3PO, Amiral Ackbar, Chopper, Garde Impérial, Garde du Temple Jedi, R2D2, BB8, Wilhuff Tarkin,
+Droïde Médical AR, Armurier, Danseur, Droïde Médical EG, Garde Gamorrean, Musicien, Leader des Musiciens, Jar Jar Binks, Gérant du Bar, Droïde Médical, Civil, Tusken, Jawa.
+n'ont pas le droit de se battre à la Guerre Galactique de l'Alliance Rebelle contre l'Empire Galactique mais tous les Jobs ont le droit d'aller à la Guerre Galactique.
+32 - Les Initiés Jedi et Acolyte Sith ont le droit de se battre qu'en entraînement.
+33 - Les combats d'entraînements sur Tython et Korriban se font que dans leurs salle d'entraînement.
+34 - Vous avez le droit de Coopérer.
+35 - Vous avez le droit de vous battre en 2 contre 1 mais pas en 3 contre 1 ou plus.
+36 - Tous les Jedis et Sith peuvent Piloter des Vaisseaux et des Véhicules.
+37 - Les Gardes Imperiaux et Gardes du Temple Jedi sont interdits de partir de leurs planète.
+38 - Les Jobs : Chasseurs de Primes, Jango Fett et Boba Fett peuvent recevoir l'ordre de tuer n'importe qui en ennemi et il aura le droit d'utiliser le Metagaming (skin de job) pour le tuer n'importe comment.
+39 - Les Neutres ne sont pas dans la même team.
+40 - Les Jobs ayant de nombreux camps peuvent le choisir
+41 - Le Metagaming (Skin de job) est autorisé que pour les Jobs Star Wars.
+42 - Les Jobs Star Wars sont des jobs qui existent dans l'univers Star Wars.
+43 - Les Jobs Jedi VS Sith sont des jobs personnalisé qui n'existent pas dans l'univers Star Wars.
+44 - Les Jobs Personnalisés sont des jobs crées pour rendre un autre RP.
+45 - Vous avez le droit de Props Block que pour construire avec des Props.
+46 - Les Droïdes Médicaux AR et EG ont le droit d'aller n'importe ou, mais ils ne doivent pas combattre, ils doivent rester dans leur camps.
+47 - AR signifie : Alliance Rebelle.
+48 - EG signifie : Empire Galactique.
+49 - N'importe quel Job sauf les Droïdes qui ne peuvent pas combattre et les monstres peuvent utiliser une arme ramassée par terre.
+50 - Jabba et sa Team peuvent fermer et ouvrir a n'importe quel moment l'ouverture de leurs Temple.
+51 - Seul Jabba peut libérer le Rancor ainsi qu'un autre Job avec l'accord du Jabba.
+52 - Il faut attaquer au niveau des Jambes du Rancor pour pouvoir l'attaquer.
+53 - N'importe quel Job peut braquer Jabba pour avoir le Rancor.
+54 - Si il y a 3 ou 4 jedi ou sith ou plus au tour d'un jedi ou sith vers la fin d'une guerre galactique, vous pouvez donc le prendre en otage et prendre son sabre laser.
+55 - En cas de gros manque de joueurs (4,5 joueurs ou plus) dans une équipe, essayez d'équilibrer les équipes.
+56 - Les Monstres peuvent être capturés par n'importe qui et peuvent se battre à la Guerre Galactique une fois domptés ou non.
+57 - Les Neutres n'ont pas la droit de s'incruster à la Guerre Galactique.
+58 - Les Gardes Gamorrean doivent protéger le Temple de Jabba, même pendant une Guerre Galactique.
+59 - Le Job : IG-100 Magnaguard sont les Gardes de Général Grievious et de personne d'autres.
+60 - Tous les Jobs possédants plusieurs sabres peuvent utiliser le sabre à double lames.
