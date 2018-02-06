@@ -76,6 +76,8 @@ ________________________________________________________________________________
 
 10 - Tous les métiers devront avoir l'obligation d'enfiler la tenue de prisonnier en cas de prison, si le braqueur lui demande d'enfiler la tenue de prisonnier ( La tenue se change dans l'armoire verte ).
 
+11 - Il est interdit de Spammer les tirs de missiles en plus de 4 missiles en environ 2 Minutes, sauf pour les missiles avec plusieurs munitions dans leurs chargeur.
+
 __________________________________________________________________________________________
 
 Le serveur :
@@ -98,7 +100,12 @@ Et pleins d'autres endroits disponibles.
 
 __________________________________________________________________________________________
 
-Les Métiers :
+Les Règles des Métiers :
 
 __________________________________________________________________________________________
+
+Recrues : 
+- Interdit de sortir de leurs base.
+- Interdit d'utiliser des véhicules.
+- 
 
