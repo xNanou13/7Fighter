@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 1 - Interdit d'utiliser les véhicules suivants : Tank, Hélicoptères. Sauf pour les jobs qui sont autorisés ( Tankiste , Recrue Pilote et Pilote.
 
-2 - Vous pouvez avoir n'importe quels armes sur vous, a condition de les avoir obtenus dans la Mystery Box ou de les avoir obtenus par terre.
+2 - Vous pouvez avoir n'importe quels armes sur vous, à condition de les avoir obtenus dans la Mystery Box ou de les avoir obtenus par terre.
 
 3 - Il est interdit d'aller dans les bases ennemies.
 
@@ -74,9 +74,9 @@ ________________________________________________________________________________
 
 9 - Tous les métiers sont autorisés à avoir n'importe quels niveau d'armure ( 100 max ) .
 
-10 - Tous les métiers devront avoir l'obligation d'enfiler la tenue de prisonnier en cas de prison, si le braqueur lui demande d'enfiler la tenue de prisonnier ( La tenue se change dans l'armoire verte ).
+10 - Il est interdit de Spammer les tirs de missiles en plus de 4 missiles en environ 2 Minutes, sauf pour les missiles avec plusieurs munitions dans leurs chargeur.
 
-11 - Il est interdit de Spammer les tirs de missiles en plus de 4 missiles en environ 2 Minutes, sauf pour les missiles avec plusieurs munitions dans leurs chargeur.
+
 
 __________________________________________________________________________________________
 
@@ -107,5 +107,33 @@ ________________________________________________________________________________
 Recrues : 
 - Interdit de sortir de leurs base.
 - Interdit d'utiliser des véhicules.
-- 
 
+Gardes :
+- Interdit de se battre durant les guerres.
+- Interdit d'utiliser des véhicules.
+- Vous pouvez garder la base ainsi que les intérieurs uniquement.
+- Interdit de sortir de la base sauf pour garder la base.
+
+Médecins (sauf Médecin d'Intervention et Médecin de Guerre):
+- Interdit de sortir de la base.
+- Interdit d'utiliser de véhicules.
+- Interdit de refuser de guerrir un allié.
+- Interdit de faire payer un allié pour le soigner.
+
+Médecin de Guerre et Médecin d'Intervention:
+- Interdit de refuser de guerrir un allié.
+- Interdit de faire payer un allié pour le soigner.
+
+Armurier :
+- Interdit de vendre des armes ailleurs que dans le stand d'armes à l'intérieur de la base.
+- Vous pouvez donner des Explosifs, grenades, kevlars, armes de corps à corps et des armes de poing à tous les jobs.
+- Interdit de vendre des armes qui ne sont pas compatible avec les jobs :
+SNIPER : Fusil de précision.
+INGENIEUR : Fusil à pompe et Lanceurs.
+SOLDAT LEGER : Pistolets Mitrailleurs.
+SOLDAT LOURD : Mitrailleuses.
+SOLDAT ASSAUT : Pistolets Mitrailleurs, Fusils à pompe, Fusils d'assaut
+MEDECINS : Fusil d'assaut,
+CAPORAL SERGENT LIEUTENANT MAJOR COMMANDANT CAPITAINE ADJUDANT ASPIRANT COLONEL GENERAL MARECHAL ... : TOUTES LES ARMES SONT VENDABLES.
+- Vous avez le droit d'avoir sur vous n'importe quels armes.
+- Vous devez faire une marge maximum de 2 fois le prix de l'arme ou de l'objet.
