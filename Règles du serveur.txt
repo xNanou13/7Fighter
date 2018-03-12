@@ -62,6 +62,14 @@ ________________________________________________________________________________
 1 - Interdit d'utiliser les véhicules suivants : Tank, Hélicoptères. Sauf pour les jobs qui sont autorisés ( Tankiste , Recrue Pilote et Pilote.
 
 2 - Vous pouvez avoir n'importe quels armes sur vous, à condition de les avoir obtenus dans la Mystery Box ou de les avoir obtenus par terre.
+- Interdit de vendre des armes en armurier ou non qui ne sont pas compatible avec les jobs :
+SNIPER : Fusil de précision.
+INGENIEUR : Fusil à pompe et Lanceurs.
+SOLDAT LEGER : Pistolets Mitrailleurs.
+SOLDAT LOURD : Mitrailleuses.
+SOLDAT ASSAUT : Pistolets Mitrailleurs, Fusils à pompe, Fusils d'assaut
+MEDECINS : Fusil d'assaut,
+CAPORAL SERGENT LIEUTENANT MAJOR COMMANDANT CAPITAINE ADJUDANT ASPIRANT COLONEL GENERAL MARECHAL ... : TOUTES LES ARMES SONT VENDABLES.
 
 3 - Il est interdit d'aller dans les bases ennemies sauf en cas de personne qui corrompt.
 
@@ -123,20 +131,12 @@ Médecins (sauf Médecin d'Intervention et Médecin de Guerre):
 - Interdit de refuser de guerrir un allié.
 - Interdit de faire payer un allié pour le soigner.
 
-Médecin de Guerre et Médecin d'Intervention:
+Médecin de Guerre et Médecin d'Intervention :
 - Interdit de refuser de guerrir un allié.
 - Interdit de faire payer un allié pour le soigner.
 
 Armurier :
 - Interdit de vendre des armes ailleurs que dans le stand d'armes à l'intérieur de la base.
 - Vous pouvez donner des Explosifs, grenades, kevlars, armes de corps à corps et des armes de poing à tous les jobs.
-- Interdit de vendre des armes qui ne sont pas compatible avec les jobs :
-SNIPER : Fusil de précision.
-INGENIEUR : Fusil à pompe et Lanceurs.
-SOLDAT LEGER : Pistolets Mitrailleurs.
-SOLDAT LOURD : Mitrailleuses.
-SOLDAT ASSAUT : Pistolets Mitrailleurs, Fusils à pompe, Fusils d'assaut
-MEDECINS : Fusil d'assaut,
-CAPORAL SERGENT LIEUTENANT MAJOR COMMANDANT CAPITAINE ADJUDANT ASPIRANT COLONEL GENERAL MARECHAL ... : TOUTES LES ARMES SONT VENDABLES.
 - Vous avez le droit d'avoir sur vous n'importe quels armes.
 - Vous devez faire une marge maximum de 2 fois le prix de l'arme ou de l'objet.
