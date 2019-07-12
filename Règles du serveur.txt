@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 3 - Interdit d'insulter en RP et HRP.
 
-4 - NLR autorisé qu'en cas de Guerre.
+4 - Interdit de NLR sauf par un FreeKill et un NoRP.
 
 5 - Interdit de Spam Micro et Chat.
 
@@ -18,15 +18,11 @@ ________________________________________________________________________________
 
 7 - Interdit de Flood le chat.
 
-8 - Interdit de faire de pubs pour d'autres serveurs Garry's Mod.
+8 - Interdit de faire de publicités.
 
 9 - Respecter le FearRP.
 
 10 - Jouer en tant que civil dans le RP est autorisé.
-
-LA NO-WAR PROJECT : VOUS ETES UN CLAN QUI N'AIME PAS LA GUERRE ET QUI VEULENT EXTERMINER TOUTES PERSONNES VOULANT FAIRE UNE GUERRE, VOUS DEVEZ VOUS BATTRE CONTRE N'IMPORTE QUI, PERSONNE DOIT VENIR PRES DE VOTRE BASE POUR SAVOIR CE QU'IL SE PASSE, SINON VOUS DEVEZ L'ELIMINER OU LE BRAQUER.
-
-LA POLICE MILITAIRE : VOUS ETES UNE SQUAD QUI DOIT SE BATTRE CONTRE LA NO-WAR PROJECT, VOUS DEVEZ LES ELIMINER OU LES METTRE EN PRISON, VOUS FAITES PARTIE DE L'ARMEE FRANCAISE ET VOUS AVEZ LE DROIT DE RENTRER A L'INTERIEUR.
 
 __________________________________________________________________________________________
 
@@ -41,51 +37,26 @@ ________________________________________________________________________________
 
 3 - Faire une action RP dans le chat -  /me "texte" pour faire une action RP dans le chat.
 
-4 - Se Kill - Kill ( F10 ), ( dans la console ) pour se kill.
+4 - Se Kill - Kill ( F10 ), ( dans la console ) pour se kill ( autorisé uniquement en cas de blocage ou d'injouabilité hors-rp ).
 
-5 - Envoyer un message anonymé - /ano "texte" pour écrire dans le chat un message anonyme.
+5 - Envoyer un message anonyme : /ano "texte" pour écrire dans le chat un message anonyme.
 
 6 - Jeter de l'argent - /dropmoney "nombre" pour jeter de l'argent.
 
-7 - Parler dans le chat a toutes les personnes -/ooc pour parler dans le chat en sachant que tous les joueurs peuvent lire votre message en action RP ou non.
+7 - Parler dans le chat a toutes les personnes -/ooc pour parler dans le chat public.
 
 8 - Appeler un admin - /// "texte" pour parler à un admin dans le chat ou pour appeler un admin dans le chat.
-
-
 __________________________________________________________________________________________
 
 Règles RP:
 
 __________________________________________________________________________________________
 
+1 - Interdit de changer de métier en pleine action RP.
 
-1 - Interdit d'utiliser les véhicules suivants : Tank, Hélicoptères. Sauf pour les jobs qui sont autorisés ( Tankiste , Recrue Pilote et Pilote.
+2 - Tous les métiers sont autorisés à avoir n'importe quels niveau d'armure ( 100 max ) .
 
-2 - Vous pouvez avoir n'importe quels armes sur vous, à condition de les avoir obtenus dans la Mystery Box ou de les avoir obtenus par terre.
-- Interdit de vendre des armes en armurier ou non qui ne sont pas compatible avec les jobs :
-SNIPER : Fusil de précision.
-INGENIEUR : Fusil à pompe et Lanceurs.
-SOLDAT LEGER : Pistolets Mitrailleurs.
-SOLDAT LOURD : Mitrailleuses.
-SOLDAT ASSAUT : Pistolets Mitrailleurs, Fusils à pompe, Fusils d'assaut
-MEDECINS : Fusil d'assaut,
-CAPORAL SERGENT LIEUTENANT MAJOR COMMANDANT CAPITAINE ADJUDANT ASPIRANT COLONEL GENERAL MARECHAL ... : TOUTES LES ARMES SONT VENDABLES.
 
-3 - Il est interdit d'aller dans les bases ennemies sauf en cas de personne qui corrompt.
-
-4 - Il est interdit de combattre hors de la guerre sauf en cas d'action RP.
-
-5 - Il est interdit de combattre un coéquippier avec des armes (en cas d'action RP, il faut utiliser les poings seulement).
-
-6 - Pour les Hélicoptères, il est interdit de décoller en dehors des Héliports.
-
-7 - Il est autorisé de prendre n'importe quels véhicules : Tank, Voitures, Hélicoptères ... (alliés ou ennemies), seulement en cas de fuite face aux ennemies.
-
-8 - Il est interdit de tirer avec les Tank et Hélicoptères en cas de fuite face aux ennemies. Sauf pour les jobs qui sont autorisés ( Tankiste , Recrue Pilote et Pilote ).
-
-9 - Tous les métiers sont autorisés à avoir n'importe quels niveau d'armure ( 100 max ) .
-
-10 - Il est interdit de Spammer les tirs de missiles en plus de 4 missiles en environ 2 Minutes, sauf pour les missiles avec plusieurs munitions dans leurs chargeur.
 
 
 
@@ -98,16 +69,7 @@ ________________________________________________________________________________
 
 1 - Il y a des armoires disponibles pour les joueurs qui souhaitent changer de tenue ( Les armoires sont vertes ).
 
-2 - Au spawn, vous pouvez jouer en HRP, Il est interdit de FreeKill mais vous avez la possibilité de regarder avec les écrans, des vidéos et vous avez aussi la possibilité de jouer du piano. ( seuls 2 écrans et 2 pianos sont disponibles ).
-
-3 - Les endroits sur la carte sonts : - Base de l' Armée Française     - Base No-War Project     - Base Terroristes
-Avant Poste de l'Armée Française  - Avant Poste Terroristes     - Zone Alpha  - Zone Beta  - Zone Charlie  - Zone Delta
-- Spawn
-Et pleins d'autres endroits disponibles.
-
-4 - Il y a une Guerre en haut de l'Ecran, ceci sera les horraires de guerres entre équipes.
-
-5 - Des héliports sont disponibles seulement pour les hélicoptères.
+2 - Au spawn, vous pouvez jouer en HRP, Il est interdit de FreeKill et autres.
 
 __________________________________________________________________________________________
 
